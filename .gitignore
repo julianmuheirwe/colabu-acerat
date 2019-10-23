@@ -1,0 +1,29 @@
+dependency-reduced-pom.xml
+logs
+
+# Intellij files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# maven
+target/
+
+
+# Linux files
+*~
+
+# OS X files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+
+/files
+/bin/alpine_mariadb.sh
